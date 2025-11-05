@@ -1,4 +1,4 @@
-# ❤️ ECG Arrhythmia Predictor
+# ECG ARRHYTHMIA PREDICTOR PROJECT
 
 An end-to-end deep learning project for detecting heart arrhythmias from ECG signals using the **PTB-XL dataset**.  
 This project applies **Inception-style 1D convolutional blocks** and **Bidirectional LSTMs** to capture both spatial and temporal cardiac features.
