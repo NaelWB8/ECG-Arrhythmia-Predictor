@@ -39,6 +39,20 @@ Developed as part of my **12th grade research project**, this system demonstrate
 
 ---
 
+## 📊 Model Performance
+
+| Metric | Value |
+|--------|--------|
+| Accuracy | **0.86** |
+| Macro Avg F1-score | **0.84** |
+| Weighted Avg F1-score | **0.86** |
+
+Example classification report:
+
+![Classification Report](confusion-matrix.png)
+
+---
+
 ## 🚀 Getting Started
 
 ### Requirements
